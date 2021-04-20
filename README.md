@@ -30,10 +30,6 @@ My skillset includes technologies listed in the toolbox below.
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[facebook]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
 ---
 
 ⚡ Fun fact: 
@@ -44,7 +40,10 @@ If you would like to get in touch, we can chat in any of the following languages
 ☑️ Arabic
 ☑️ Spanish
 
-
+[website]: https://jalalmallah.io
+[twitter]: https://twitter.com/jalal_mallah_
+[facebook]: https://www.facebook.com/jalal.mallah
+[linkedin]: https://www.linkedin.com/in/jalal-mallah
 <!--
 **JalalMallah/JalalMallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
