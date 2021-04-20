@@ -17,8 +17,8 @@ My skillset includes technologies listed in the toolbox below.
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="80" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="80" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" alt="NPM Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/>
 
