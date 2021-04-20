@@ -2,7 +2,7 @@
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jalal_mallah_?color=1DA1F2&logo=twitter&style=style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jalal_mallah_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jalal_mallah_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jalal_mallah_)
 [![Website](https://img.shields.io/website?label=jalalmallah.io&style=for-the-badge&url=https%3A%2F%2Fjalalmallah.io)](https://jalalmallah.io)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
