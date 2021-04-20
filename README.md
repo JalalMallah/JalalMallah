@@ -14,19 +14,7 @@ My skillset includes technologies listed in the toolbox below.
 
 ### 🧰 Languages and Tools: 
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="80" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="80" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" alt="NPM Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/>
-
-<br />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="80" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="80" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" alt="NPM Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/>
 
 ---
 
