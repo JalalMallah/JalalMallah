@@ -5,8 +5,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jalal_mallah_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jalal_mallah_)
 [![Website](https://img.shields.io/website?label=jalalmallah.io&style=for-the-badge&url=https%3A%2F%2Fjalalmallah.io)](https://jalalmallah.io)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 
 
 A Front-End Developer currently looking for his first commercial job. My mission is to make the web an even better place by creating user-friendly and great-looking websites using the newest web technologies. A huge fan of the React eco-system.
@@ -23,6 +21,19 @@ My skillset includes technologies listed in the toolbox below.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalalMallah&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### Connect with me:
+
+[<img align="left" alt="jalalmallah.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="#ffc600" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[facebook]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
 ---
 
 ⚡ Fun fact: 
