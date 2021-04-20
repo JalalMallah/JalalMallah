@@ -2,7 +2,7 @@
 
 ---
 
-![Twitter Follow](https://twitter.com/intent/follow?screen_name=jalal_mallah_)
+![Twitter Follow](https://img.shields.io/twitter/follow/jalal_mallah_?label=Follow%20me%20on%20twitter&style=social)
 
 
 A Front-End Developer currently looking for his first commercial job. My mission is to make the web an even better place by creating user-friendly and great-looking websites using the newest web technologies. A huge fan of the React eco-system.
