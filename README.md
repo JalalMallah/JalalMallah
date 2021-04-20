@@ -4,6 +4,9 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/jalal_mallah_?label=Follow%20me%20on%20twitter&style=social)
 
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
 
 
 A Front-End Developer currently looking for his first commercial job. My mission is to make the web an even better place by creating user-friendly and great-looking websites using the newest web technologies. A huge fan of the React eco-system.
