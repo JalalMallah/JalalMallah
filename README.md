@@ -15,6 +15,7 @@ My skillset includes technologies listed in the toolbox below.
 🧰 Toolbox 
 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="80" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="80" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" alt="NPM Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/>
+
 ---
 
 ## &#x1f4c8; My GitHub Stats
@@ -30,6 +31,7 @@ My skillset includes technologies listed in the toolbox below.
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br />
 ---
 
 ⚡ Fun fact: 
