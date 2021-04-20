@@ -32,6 +32,7 @@ My skillset includes technologies listed in the toolbox below.
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
 ---
 
 ⚡ Fun fact: 
