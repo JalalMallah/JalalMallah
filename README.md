@@ -2,8 +2,14 @@
 
 ---
 
-[![Website](https://img.shields.io/website?label=jalalmallah.io&style=for-the-badge&url=https%3A%2F%2Fjalalmallah.io)](https://jalalmallah.io) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jalal_mallah_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jalal_mallah_)
+[![Website](https://img.shields.io/website?label=www.jalalmallah.io&style=for-the-badge&url=https%3A%2F%2Fjalalmallah.io)](https://jalalmallah.io) 
+<a href="https://www.linkedin.com/in/jalal-mallah/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="https://twitter.com/jalal_mallah_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 
 
 
