@@ -26,7 +26,7 @@ My skillset includes technologies listed in the toolbox below.
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+### &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalalMallah&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,7 +43,7 @@ My skillset includes technologies listed in the toolbox below.
 
 ---
 
-⚡ Fun fact: 
+### ⚡ Fun fact: 
 
 If you would like to get in touch, we can chat in any of the following languages:
 ☑️ English
