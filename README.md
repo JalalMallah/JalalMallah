@@ -16,6 +16,7 @@
 
 A Front-End Developer currently looking for his first commercial challenges. My mission is to make the web an even better place by creating user-friendly and great-looking websites using the newest web technologies. A huge fan of the React eco-system.
 My skillset includes technologies listed in the toolbox below.
+🌱 I’m currently learning TypeScript.
 
 ---
 
@@ -31,7 +32,7 @@ My skillset includes technologies listed in the toolbox below.
 
 ---
 
-### Connect with me:
+### 📫 How to reach me: 
 
 [<img align="left" alt="jalalmallah.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="#ffc600" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
