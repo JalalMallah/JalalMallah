@@ -17,7 +17,7 @@
 A Front-End Developer currently looking for his first commercial challenges. My mission is to make the web an even better place by creating user-friendly and great-looking websites using the newest web technologies. A huge fan of the React eco-system.
 My skillset includes technologies listed in the toolbox below.
 
-🌱 I’m currently learning TypeScript.
+🌱 I’m currently learning React Native.
 
 ---
 
