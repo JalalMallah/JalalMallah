@@ -36,7 +36,7 @@ My skillset includes technologies listed in the toolbox below.
 ### 📫 How to reach me: 
 
 [<img align="left" alt="jalalmallah.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="#ffc600" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
