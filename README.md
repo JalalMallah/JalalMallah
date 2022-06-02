@@ -35,10 +35,10 @@ My skillset includes technologies listed in the toolbox below.
 
 ### 📫 How to reach me: 
 
-[<img align="left" alt="jalalmallah.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="#ffc600" />][website]
-[<img align="left" alt="Twitter" width="40px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
-[<img align="left" alt="LinkedIn" width="40px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
-[<img align="left" alt="Facebook" width="40px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
+[<img align="left" alt="jalalmallah.io" width="50px" src="https://skillicons.dev/icons?i=electron" />][website]
+[<img align="left" alt="Twitter" width="50px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
+[<img align="left" alt="LinkedIn" width="50px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
+[<img align="left" alt="Facebook" width="50px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
 
 <br />
 
@@ -54,7 +54,7 @@ If you would like to get in touch, we can chat in any of the following languages
 
 [website]: https://jalalmallah.io
 [twitter]: https://twitter.com/jalal_mallah_
-[facebook]: https://www.instagram.com/el_jalalo
+[instagram]: https://www.instagram.com/el_jalalo
 [linkedin]: https://www.linkedin.com/in/jalal-mallah
 <!--
 **JalalMallah/JalalMallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
