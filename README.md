@@ -1,4 +1,4 @@
-### Hi there! 😃 My name is Jalal Mallah! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! 😃 My name is Jalal Mallah! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 ---
 
@@ -23,7 +23,7 @@ My skillset includes technologies listed in the toolbox below.
 
 ### 🧰 Languages and Tools: 
 
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=sass" alt="Sass Logo" width="40" height="40"/> <img src="hhttps://skillicons.dev/icons?i=js" alt="JavaScript Logo" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript Logo" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=react" alt="React Logo" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=redux" alt="Redux Logo" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=gatsby" alt="Gatsby Logo" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components Logo" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="Git Logo" width="60" height="40"/> <img src="https://skillicons.dev/icons?i=linux" alt="Linux Logo" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code Logo" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=sass" alt="Sass Logo" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Logo" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript Logo" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=react" alt="React Logo" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=redux" alt="Redux Logo" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=gatsby" alt="Gatsby Logo" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components Logo" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=git" alt="Git Logo" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=linux" alt="Linux Logo" width="75" height="75"/> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code Logo" width="75" height="75"/>
 
 ---
 
